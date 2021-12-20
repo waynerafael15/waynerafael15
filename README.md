@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋 mi nombre es Wayne Rodríguez, actualmente estoy aprendiendo 🌱 e introducciendo al fantastico mundo del desarrollos web. Hasta el momento solo poseo conocimiento en HTML, CSS, SQL Server y un poco de JavaScript. Cada dia estoy practicando y realizando pequeños proyectos para desarrollar mis habilidades. Gracias por visitar mi perfil.
 
 <!--
 **waynerafael15/waynerafael15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
